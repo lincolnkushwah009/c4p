@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1095763628136-4at20ng8kv6ldri0il91bdfr9dvdar8f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1095763628136-4at20ng8kv6ldri0il91bdfr9dvdar8f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1095763628136-0o7c7eqnl07krqt2m20mvv0qcv6uil43.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDapZNVFqfuWbrLJ_qXYo6z3080VHGyT6o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1095763628136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pinkshastra.CareForParents</string>
+	<key>PROJECT_ID</key>
+	<string>care4parents-40db3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>care4parents-40db3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1095763628136:ios:7cbe7a2ad29a549876ebdd</string>
+	<key>DATABASE_URL</key>
+	<string>https://care4parents-40db3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

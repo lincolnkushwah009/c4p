@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.853" height="52.286" viewBox="0 0 57.853 52.286">
+  <g id="Icons_syringe" data-name="Icons/ syringe" transform="translate(1.394 0.839)">
+    <g id="Icons_heart" data-name="Icons/ heart">
+      <g id="Icons_heart-2" data-name="Icons/ heart" transform="translate(0.106 0.661)">
+        <path id="Path" d="M50.552,4.339h0a13.752,13.752,0,0,0-20.052,0l-2.744,3a.947.947,0,0,1-1.055,0l-2.744-3a13.509,13.509,0,0,0-19.841,0h0a15.451,15.451,0,0,0,0,21l3.377,3.429L26.912,49.125a.947.947,0,0,0,1.055,0L47.386,28.768l3.377-3.429A15.24,15.24,0,0,0,50.552,4.339Z" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path-2" data-name="Path" d="M0,6.429H6.332l4.221-4.286,4.221,8.571L19,0l4.221,6.429H29.55" transform="translate(12.559 15.054)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.017" height="59.183" viewBox="0 0 39.017 59.183">
+  <g id="Icons_nurse" data-name="Icons/ nurse" transform="translate(1.683 1.5)">
+    <g id="Icons_nurse-2" data-name="Icons/ nurse">
+      <path id="Path" d="M19.808,7.538C19.808,3.446,16.639,0,12.875,0S5.943,3.446,5.943,7.538A3.188,3.188,0,0,0,2.971,4.308,3.188,3.188,0,0,0,0,7.538V19.385C0,24.123,3.566,28,7.923,28s7.923-3.877,7.923-8.615V12.923h3.962Z" transform="translate(9.904)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path-2" data-name="Path" d="M13.866,0V2.154A8.7,8.7,0,0,1,9.508,9.908L5.546,12.062a8.93,8.93,0,0,0-4.16,6.462L0,29.077" transform="translate(0 26.923)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path-3" data-name="Path" d="M0,.75H5.943" transform="translate(21.789 46.635)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path-4" data-name="Path" d="M22.78,23.046,21.393,12.277a8.93,8.93,0,0,0-4.16-6.462L8.914,1.292,4.952,3.662,0,0" transform="translate(12.875 32.954)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <filter id="Ellipse_316" x="0" y="0" width="102" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2499" data-name="Group 2499" transform="translate(-137 -677)">
+    <g transform="matrix(1, 0, 0, 1, 137, 677)" filter="url(#Ellipse_316)">
+      <circle id="Ellipse_316-2" data-name="Ellipse 316" cx="42" cy="42" r="42" transform="translate(9 6)" fill="#2951a3"/>
+    </g>
+    <g id="Icons_monitoring" data-name="Icons/ monitoring" transform="translate(176 699)">
+      <g id="Icons_monitoring-2" data-name="Icons/ monitoring">
+        <path id="Path" d="M0,1.95v15.6A1.942,1.942,0,0,0,1.923,19.5H23.077A1.942,1.942,0,0,0,25,17.55V1.95A1.942,1.942,0,0,0,23.077,0H1.923A1.942,1.942,0,0,0,0,1.95Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path-2" data-name="Path" d="M0,.75H13.462" transform="translate(5.769 24.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path-3" data-name="Path" d="M1.731,0A10.479,10.479,0,0,1,0,5.85" transform="translate(7.885 19.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path-4" data-name="Path" d="M1.731,5.85A10.479,10.479,0,0,1,0,0" transform="translate(15.385 19.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path-5" data-name="Path" d="M0,2.925H4.808L6.731.975l1.923,3.9L10.577,0,12.5,2.925h4.808" transform="translate(3.846 6.825)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_2498" data-name="Group 2498" transform="translate(124 115)">
+      <text id="Record_Vitals" data-name="Record
+Vitals" transform="translate(64 626)" fill="#fff" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.62" y="0">Record</tspan><tspan x="-13.65" y="12">Vitals</tspan></text>
+    </g>
+  </g>
+</svg>

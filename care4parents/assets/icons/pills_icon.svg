@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.154" height="53" viewBox="0 0 49.154 53">
+  <g id="Icons_pills" data-name="Icons/ pills" transform="translate(1.5 1.5)">
+    <g id="Icons_scales" data-name="Icons/ scales">
+      <g id="Icons_scales-2" data-name="Icons/ scales">
+        <circle id="Oval" cx="11.538" cy="11.538" r="11.538" transform="translate(11.538)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path" d="M34.615,0h7.692a3.857,3.857,0,0,1,3.846,3.846V34.615a3.857,3.857,0,0,1-3.846,3.846H3.846A3.857,3.857,0,0,1,0,34.615V3.846A3.857,3.857,0,0,1,3.846,0h7.692" transform="translate(0 11.538)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path-2" data-name="Path" d="M.75,26.923V0" transform="translate(22.327 23.077)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path-3" data-name="Path" d="M3.269,5.385a1.859,1.859,0,0,1-2.692,0,1.859,1.859,0,0,1,0-2.692C1.346,1.923,5.962,0,5.962,0S4.038,4.615,3.269,5.385Z" transform="translate(21.154 7.5)" fill="none" stroke="#2951a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

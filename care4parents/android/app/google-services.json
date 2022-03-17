@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095763628136",
+    "project_id": "care4parents-40db3",
+    "storage_bucket": "care4parents-40db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095763628136:android:07c01f754eafa43d76ebdd",
+        "android_client_info": {
+          "package_name": "com.pinkshastra.care4parents_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095763628136-be6pgbn4r8cokc0c531aacettd5piu0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinkshastra.care4parents_app",
+            "certificate_hash": "321d4f2b92936295977912e8168f2a3c668c7170"
+          }
+        },
+        {
+          "client_id": "1095763628136-vas5r8rb17gdd3c29h5eibopcd36ei87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinkshastra.care4parents_app",
+            "certificate_hash": "c37708f41827dd7ee2a4b081f5aa9dae30cd5796"
+          }
+        },
+        {
+          "client_id": "1095763628136-kl0gi2fk0dapih5rb3pk327qr5vkcs9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jnVqtuLWQC7qYDMkVYNTOoXG0HrchRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095763628136-kl0gi2fk0dapih5rb3pk327qr5vkcs9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

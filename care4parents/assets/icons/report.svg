@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27.753" viewBox="0 0 27 27.753">
+  <g id="Icons_monitoring" data-name="Icons/ monitoring" transform="translate(1 1)">
+    <g id="Icons_monitoring-2" data-name="Icons/ monitoring">
+      <path id="Path" d="M0,1.95v15.6A1.942,1.942,0,0,0,1.923,19.5H23.077A1.942,1.942,0,0,0,25,17.55V1.95A1.942,1.942,0,0,0,23.077,0H1.923A1.942,1.942,0,0,0,0,1.95Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-2" data-name="Path" d="M0,.75H13.462" transform="translate(5.769 24.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-3" data-name="Path" d="M1.731,0A10.479,10.479,0,0,1,0,5.85" transform="translate(7.885 19.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-4" data-name="Path" d="M1.731,5.85A10.479,10.479,0,0,1,0,0" transform="translate(15.385 19.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-5" data-name="Path" d="M0,2.925H4.808L6.731.975l1.923,3.9L10.577,0,12.5,2.925h4.808" transform="translate(3.846 6.825)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
